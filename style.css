@@ -1,0 +1,17 @@
+.box {
+  margin-left: 50pt;
+  margin-top: 100pt;
+  width: 100pt;
+  height: 100pt;
+  background-color: lightblue;
+  text-align: center;
+  padding-top: 55pt;
+}
+.box:hover {
+  background-color: aqua;
+ 
+  box-shadow: lightsalmon 22pt 20pt;
+}
+.box:active {
+  background-color: lightgreen;
+}
